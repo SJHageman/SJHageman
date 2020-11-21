@@ -1,3 +1,5 @@
+![Iceland Landscape](/iceland.jpg)
+
 ### Hi there 👋
 
 <!--
