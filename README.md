@@ -1,5 +1,9 @@
 ![Laser Filament](/IMG_0280.jpg)
+# Data Science
 
+## Projects
+- Simulating the wealth distribution in a closed economy using a Markov chain Monet Carlo (MCMC) method. 
+- Predictive model using telematics data.
 
 # Physics
 
