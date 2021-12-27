@@ -2,8 +2,8 @@
 # Data Science
 
 ## Projects
-- Simulating the wealth distribution in a closed economy using a Markov chain Monet Carlo (MCMC) method. 
-- Predictive model using telematics data.
+- Simulating the wealth distribution in a closed economy using a Markov chain Monet Carlo (MCMC) method. [link here](https://github.com/SJHageman/Monte-Carlo-Economy)
+- Predictive modeling using telematics data. [link here](https://github.com/SJHageman/Telematics)
 
 # Physics
 
