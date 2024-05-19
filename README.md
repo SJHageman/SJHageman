@@ -3,7 +3,7 @@
 
 ## Projects
 - Udacity AWS Machine Learning Nanodegree capstone project.  Signature verification model using PyTorch pre-trained models. [link here](https://github.com/SJHageman/udacity-mle-capstone)
-- Simulating the wealth distribution in a closed economy using a Markov chain Monet Carlo (MCMC) method. [link here](https://github.com/SJHageman/Monte-Carlo-Economy)
+- Simulating the wealth distribution in a closed economy using a Markov chain Monte Carlo (MCMC) method. [link here](https://github.com/SJHageman/Monte-Carlo-Economy)
 - Predictive modeling using telematics data provided by a users smartphone. [link here](https://github.com/SJHageman/Telematics)
 
 # Physics
